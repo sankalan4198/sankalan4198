@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **paulsankalan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TaNJ0r_3_Uk7m9RWXAqX3Eg96tuM9ePU/view?usp=sharing](https://drive.google.com/file/d/1TaNJ0r_3_Uk7m9RWXAqX3Eg96tuM9ePU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TaNJ0r_3_Uk7m9RWXAqX3Eg96tuM9ePU/view?usp=sharing)
 
 - ⚡ Fun fact **I love to break things!! 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sankalan paul chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalan paul chowdhury" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sankalan-paul-chowdhury-778a4a13a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalan paul chowdhury" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
